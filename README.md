@@ -33,10 +33,11 @@ Here are some ideas to get you started:
 
 ## Research Interests
 
-- Privacy-preserving Machine Learning
+- System and Firmware Security
 - Data Security and Privacy
 - AI Agent Security
-- System and Firmware Security
+- High Performance Computing
+
 
 ## Selected Publications
 
