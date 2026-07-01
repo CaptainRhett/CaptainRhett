@@ -31,22 +31,12 @@ Here are some ideas to get you started:
 
 ---
 
-## About Me
-
-I am currently pursuing a master's degree at the School of Cyberspace Science and Technology, Beijing Institute of Technology.
-
-My research interests mainly focus on cybersecurity, softwear security, and trustworthy machine learning systems. I am also interested in practical security problems in real-world systems.
-
----
-
 ## Research Interests
 
 - Privacy-preserving Machine Learning
 - Data Security and Privacy
 - AI Agent Security
 - System and Firmware Security
-
----
 
 ## Selected Publications
 
@@ -56,8 +46,6 @@ My research interests mainly focus on cybersecurity, softwear security, and trus
 
 
 <!-- - **More publications coming soon.** -->
-
----
 
 ## Selected Projects
 
@@ -73,8 +61,6 @@ Studying closed-source BMC firmware and Redfish API behavior for cross-layer pro
 
 **Keywords:** BMC Firmware, Redfish, API Recovery, Fuzzing, System Security
 
----
-
 ## Technical Skills
 
 <p align="left">
@@ -85,18 +71,6 @@ Studying closed-source BMC firmware and Redfish API behavior for cross-layer pro
   <img src="https://img.shields.io/badge/LaTeX-333333?style=flat&logo=latex&logoColor=white" />
   <img src="https://img.shields.io/badge/PyTorch-333333?style=flat&logo=pytorch&logoColor=white" />
 </p>
-
-
----
-
-## GitHub Stats
-
-<p align="left">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=CaptainRhett&show_icons=true&theme=default&hide_border=true" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CaptainRhett&layout=compact&theme=default&hide_border=true" />
-</p>
-
----
 
 ## Contact
 
